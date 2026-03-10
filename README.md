@@ -71,7 +71,7 @@ The complete report containing:
 
 is available in the PDF file below:
 
-Vulnerability_Assessment_Report.pdf
+[Vulnerability_Assessment_Report.pdf](https://github.com/whsb3ne/FUTURE_CS_01/blob/main/Vulnerability%20Assessment%20Report.pdf)
 
 ---
 
